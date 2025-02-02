@@ -1,13 +1,84 @@
-body {
+@import-normalize;
+/* bring in normalize.css styles */
+
+html {
+  box-sizing: border-box;
+  width: 100vw;
+  overflow-x: hidden;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
   margin: 0;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+  text-decoration: none;
+}
+
+div {
+  display: block;
+}
+
+button {
+  padding: 0;
+}
+
+body {
+  margin: 0 auto;
+  width: 100%;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  color: #ffffff;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+a {
+  color: inherit;
+}
+
+a:hover {
+  color: #2f3761;
+}
+
+a.active {
+  color: #2f3761;
+}
+
+a.active::before {
+  width: 100%;
+  position: absolute;
+  left: 0;
+  bottom: -27px;
+  border-bottom: solid 2px;
+  content: '';
+}
+
+#root {
+  width: 100%;
+  margin: 0 auto;
 }
