@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkoleg_shop_v0_1_0=self.webpackChunkoleg_shop_v0_1_0||[]).push([[262],{262:(e,s,n)=>{n.r(s),n.d(s,{default:()=>u});n(43);var o=n(579);const u=function(){return(0,o.jsx)("div",{children:"NotFoundPage"})}}}]);
+//# sourceMappingURL=262.736a9f2a.chunk.js.map

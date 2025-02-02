@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/oleg-shop-v0.1.0/static/css/main.e5844e1f.css",
+    "main.js": "/oleg-shop-v0.1.0/static/js/main.98b0c32c.js",
+    "static/js/122.3e690fb2.chunk.js": "/oleg-shop-v0.1.0/static/js/122.3e690fb2.chunk.js",
+    "static/js/262.736a9f2a.chunk.js": "/oleg-shop-v0.1.0/static/js/262.736a9f2a.chunk.js",
+    "static/js/864.dfd04b38.chunk.js": "/oleg-shop-v0.1.0/static/js/864.dfd04b38.chunk.js",
+    "static/js/146.6e0e5a3f.chunk.js": "/oleg-shop-v0.1.0/static/js/146.6e0e5a3f.chunk.js",
+    "static/js/436.28045d00.chunk.js": "/oleg-shop-v0.1.0/static/js/436.28045d00.chunk.js",
+    "static/media/Rectangle_1.webp": "/oleg-shop-v0.1.0/static/media/Rectangle_1.83af0d50085c62b6c18d.webp",
+    "static/media/Ellipse3.png": "/oleg-shop-v0.1.0/static/media/Ellipse3.e1de4bfff1ebbab19428.png",
+    "static/media/Ellipse1.png": "/oleg-shop-v0.1.0/static/media/Ellipse1.3b412ee681526378306f.png",
+    "static/media/Ellipse2.png": "/oleg-shop-v0.1.0/static/media/Ellipse2.34b0cd9da5117cfe61fc.png",
+    "static/media/Ellipse4.png": "/oleg-shop-v0.1.0/static/media/Ellipse4.e14ac8dd338f621f5201.png",
+    "static/media/favorite.svg": "/oleg-shop-v0.1.0/static/media/favorite.2bd2f9b0f9be24e45ef87d4bf21bce7f.svg",
+    "static/media/cart.svg": "/oleg-shop-v0.1.0/static/media/cart.531fe889fc13908a3a517c9d00facd43.svg",
+    "static/media/search.svg": "/oleg-shop-v0.1.0/static/media/search.cfa337f1f76bb4c2e5df81b8d163d6d4.svg",
+    "index.html": "/oleg-shop-v0.1.0/index.html",
+    "static/media/Group_25.svg": "/oleg-shop-v0.1.0/static/media/Group_25.6d01f48e10d57be0849d7044a680ce87.svg",
+    "main.e5844e1f.css.map": "/oleg-shop-v0.1.0/static/css/main.e5844e1f.css.map",
+    "main.98b0c32c.js.map": "/oleg-shop-v0.1.0/static/js/main.98b0c32c.js.map",
+    "122.3e690fb2.chunk.js.map": "/oleg-shop-v0.1.0/static/js/122.3e690fb2.chunk.js.map",
+    "262.736a9f2a.chunk.js.map": "/oleg-shop-v0.1.0/static/js/262.736a9f2a.chunk.js.map",
+    "864.dfd04b38.chunk.js.map": "/oleg-shop-v0.1.0/static/js/864.dfd04b38.chunk.js.map",
+    "146.6e0e5a3f.chunk.js.map": "/oleg-shop-v0.1.0/static/js/146.6e0e5a3f.chunk.js.map",
+    "436.28045d00.chunk.js.map": "/oleg-shop-v0.1.0/static/js/436.28045d00.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5844e1f.css",
+    "static/js/main.98b0c32c.js"
+  ]
+}

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkoleg_shop_v0_1_0=self.webpackChunkoleg_shop_v0_1_0||[]).push([[864],{864:(e,s,_)=>{_.r(s),_.d(s,{default:()=>l});_(43);var a=_(579);const l=()=>(0,a.jsx)("div",{children:"CatalogPage"})}}]);
+//# sourceMappingURL=864.dfd04b38.chunk.js.map
