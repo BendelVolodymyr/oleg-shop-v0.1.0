@@ -1,20 +1,16 @@
 import React, { Suspense } from 'react';
 import { Link, Outlet } from 'react-router-dom';
 import { Header } from './Header/Header';
+import { Footer } from './Footer/Footer';
 
 export const Layout = () => {
   return (
     <>
-      <Header>
-        <Link to="/catalog">Catalog</Link>
-        <Link to="/">Oleg/Shop</Link>
-        <Link to="/favorite">Favorite</Link>
-        <Link to="/cart">Cart</Link>
-      </Header>
-
+      <Header />
       <Suspense fallback={null}>
         <Outlet />
       </Suspense>
+      <Footer />
     </>
   );
 };

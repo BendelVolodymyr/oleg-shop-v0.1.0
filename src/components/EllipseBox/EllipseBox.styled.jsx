@@ -9,17 +9,17 @@ export const EllipseImg = styled.img`
   width: 82px;
   height: 82px;
   border-radius: 50%;
-  border: 2px solid #86c70e;
+  border: 2px solid #7659e0;
 `;
 
 export const EllipseText = styled.p`
   margin: 0;
-  color: #000;
+
+  color: ${({ theme }) => theme.colors.primary.text};
   text-align: center;
-  font-family: Ruberoid;
   font-size: 15px;
   font-style: normal;
-  font-weight: 400;
-  line-height: 100%; /* 15px */
+  font-weight: ${({ theme }) => theme.fontWeights.regular};
+  line-height: 100%;
   letter-spacing: 0.15px;
 `;

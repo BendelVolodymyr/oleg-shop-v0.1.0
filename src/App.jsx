@@ -10,7 +10,7 @@ const Favorite = lazy(() => import('./pages/FavoritesPage/FavoritesPage'));
 
 export const App = () => {
   return (
-    <div>
+    <>
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />
@@ -26,6 +26,6 @@ export const App = () => {
           <Route path="customers" element={<Customers />} />
         </Route> */}
       </Routes>
-    </div>
+    </>
   );
 };

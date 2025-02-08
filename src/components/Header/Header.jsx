@@ -1,4 +1,10 @@
 import React, { useState } from 'react';
+
+import { CiMenuBurger } from 'react-icons/ci';
+import { GrFavorite } from 'react-icons/gr';
+import { FaCartPlus } from 'react-icons/fa6';
+import { VscSearch } from 'react-icons/vsc';
+
 import {
   CatalogLink,
   HamburgerMenuButton,
@@ -9,15 +15,12 @@ import {
   NavBox,
   Title,
   TitleBox,
-  TitleSave,
+  TitleSale,
 } from './Header.styled';
-import { ReactComponent as HamburgerSvg } from '../../assets/svg/Group_25.svg';
-import { ReactComponent as CartSvg } from '../../assets/svg/cart.svg';
-import { ReactComponent as FavoriteSvg } from '../../assets/svg/favorite.svg';
-import { ReactComponent as SearchSvg } from '../../assets/svg/search.svg';
+
 import { Link } from 'react-router-dom';
 
-export const Header = ({ children }) => {
+export const Header = () => {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
@@ -25,27 +28,27 @@ export const Header = ({ children }) => {
       <HeaderBox>
         <NavBox>
           <HamburgerMenuButton onClick={() => setIsOpen(!isOpen)}>
-            <HamburgerSvg />
+            <CiMenuBurger size="26px" color="fff" />
           </HamburgerMenuButton>
-          <LogoText>Oleg Shop</LogoText>
+          <LogoText $color={false}>Oleg Shop</LogoText>
           <HelperBox>
             <Link to="/favorite">
-              <FavoriteSvg />
+              <GrFavorite size="26px" color="fff" />
             </Link>
             <Link to="/cart">
-              <CartSvg />
+              <FaCartPlus size="26px" color="fff" />
             </Link>
             <Link to="/search">
-              <SearchSvg />
+              <VscSearch size="26px" color="fff" />
             </Link>
           </HelperBox>
         </NavBox>
         <TitleBox>
-          <Title>Розпродаж товарів для неї</Title>
-          <TitleSave>Скидки до 90%</TitleSave>
+          <Title>Розпродажа товарів для неї</Title>
+          <TitleSale>Скидки до 50%</TitleSale>
           <CatalogLink to="/catalog">Перейти в каталог</CatalogLink>
         </TitleBox>
-        <MenuBox $isOpen={isOpen}>{children}</MenuBox>
+        <MenuBox $isOpen={isOpen}></MenuBox>
       </HeaderBox>
     </>
   );
