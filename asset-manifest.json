@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/oleg-shop-v0.1.0/static/css/main.f28f2ab7.css",
+    "main.js": "/oleg-shop-v0.1.0/static/js/main.766f5073.js",
+    "static/js/609.259d2d7c.chunk.js": "/oleg-shop-v0.1.0/static/js/609.259d2d7c.chunk.js",
+    "static/js/262.736a9f2a.chunk.js": "/oleg-shop-v0.1.0/static/js/262.736a9f2a.chunk.js",
+    "static/js/864.dfd04b38.chunk.js": "/oleg-shop-v0.1.0/static/js/864.dfd04b38.chunk.js",
+    "static/js/146.6e0e5a3f.chunk.js": "/oleg-shop-v0.1.0/static/js/146.6e0e5a3f.chunk.js",
+    "static/js/436.28045d00.chunk.js": "/oleg-shop-v0.1.0/static/js/436.28045d00.chunk.js",
+    "static/js/150.111cf609.chunk.js": "/oleg-shop-v0.1.0/static/js/150.111cf609.chunk.js",
+    "static/media/Rectangle_1.webp": "/oleg-shop-v0.1.0/static/media/Rectangle_1.83af0d50085c62b6c18d.webp",
+    "static/media/jpg": "/oleg-shop-v0.1.0/static/media/ab3256067fe494de107bb57d6d2727b2.eb949d81f4f77c4d7f9a.jpg",
+    "static/media/exclusive_bg.jpg": "/oleg-shop-v0.1.0/static/media/exclusive_bg.8ac93f9165f1e49d02a9.jpg",
+    "static/media/subscription.jpg": "/oleg-shop-v0.1.0/static/media/subscription.9f51929dd0352d2a537a.jpg",
+    "static/media/bag_test.jpg": "/oleg-shop-v0.1.0/static/media/bag_test.2390288b54d94109eed2.jpg",
+    "static/media/coat_test.jpg": "/oleg-shop-v0.1.0/static/media/coat_test.9f8c87775c0c6231b3e5.jpg",
+    "static/media/shoes_test.jpg": "/oleg-shop-v0.1.0/static/media/shoes_test.2c218b15852f6c9a6b35.jpg",
+    "static/media/accessories_test.jpg": "/oleg-shop-v0.1.0/static/media/accessories_test.5be95853dc92129b8a0b.jpg",
+    "static/media/Ellipse3.png": "/oleg-shop-v0.1.0/static/media/Ellipse3.e1de4bfff1ebbab19428.png",
+    "static/media/Ellipse1.png": "/oleg-shop-v0.1.0/static/media/Ellipse1.3b412ee681526378306f.png",
+    "static/media/Ellipse2.png": "/oleg-shop-v0.1.0/static/media/Ellipse2.34b0cd9da5117cfe61fc.png",
+    "static/media/Ellipse4.png": "/oleg-shop-v0.1.0/static/media/Ellipse4.e14ac8dd338f621f5201.png",
+    "index.html": "/oleg-shop-v0.1.0/index.html",
+    "main.f28f2ab7.css.map": "/oleg-shop-v0.1.0/static/css/main.f28f2ab7.css.map",
+    "main.766f5073.js.map": "/oleg-shop-v0.1.0/static/js/main.766f5073.js.map",
+    "609.259d2d7c.chunk.js.map": "/oleg-shop-v0.1.0/static/js/609.259d2d7c.chunk.js.map",
+    "262.736a9f2a.chunk.js.map": "/oleg-shop-v0.1.0/static/js/262.736a9f2a.chunk.js.map",
+    "864.dfd04b38.chunk.js.map": "/oleg-shop-v0.1.0/static/js/864.dfd04b38.chunk.js.map",
+    "146.6e0e5a3f.chunk.js.map": "/oleg-shop-v0.1.0/static/js/146.6e0e5a3f.chunk.js.map",
+    "436.28045d00.chunk.js.map": "/oleg-shop-v0.1.0/static/js/436.28045d00.chunk.js.map",
+    "150.111cf609.chunk.js.map": "/oleg-shop-v0.1.0/static/js/150.111cf609.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f28f2ab7.css",
+    "static/js/main.766f5073.js"
+  ]
+}
